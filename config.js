@@ -13,18 +13,18 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': 'ae47852b8e9d',
 }
 
 
-global.ownername = 'Rezer Bot'
+global.ownername = 'Rezer Cr To Jo Bot'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['688239973934']
-global.premium = ['688239973934']
-global.packname = 'Rezer Bot'
+global.owner = ['6288239973934']
+global.premium = ['6288239973934']
+global.packname = 'Rezer Cr To Jo Bot'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
